@@ -5,7 +5,7 @@ class AuthScreen extends Component {
 
     render() {
         return (
-            <View>
+            <View style={{ flex: 1 }}>
                 <Text>AuthScreen</Text>
                 <Text>AuthScreen</Text>
                 <Text>AuthScreen</Text>
@@ -17,5 +17,6 @@ class AuthScreen extends Component {
         );
     }
 }
+
 
 export default AuthScreen;

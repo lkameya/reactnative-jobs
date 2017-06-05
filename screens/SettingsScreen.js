@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { View, Text } from 'react-native';
 
-class SettingScreen extends Component {
+class SettingsScreen extends Component {
 
     render() {
         return (
@@ -18,4 +18,4 @@ class SettingScreen extends Component {
     }
 }
 
-export default SettingScreen;
+export default SettingsScreen;
